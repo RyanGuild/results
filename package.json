@@ -1,0 +1,14 @@
+{
+  "name": "@results/workspace",
+  "version": "0.1.0",
+  "description": "The @results project is an endevor create typescripts missing result type",
+  "main": "index.js",
+  "author": "Ryan Guild",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "types",
+    "result",
+    "promises"
+  ]
+}

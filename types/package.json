@@ -1,0 +1,6 @@
+{
+    "name": "@results/types",
+    "scripts": {
+        "publish": "npx jsr publish"
+    }
+}

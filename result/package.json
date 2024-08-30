@@ -1,0 +1,9 @@
+{
+  "name": "@results/result",
+  "devDependencies": {
+    "@results/types": "npm:@jsr/results__types@^0.0.5"
+  },
+  "scripts": {
+    "publish": "npx jsr publish"
+  }
+}

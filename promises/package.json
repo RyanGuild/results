@@ -1,0 +1,10 @@
+{
+  "name": "@results/promises",
+  "author": "Ryan Guild",
+  "dependencies": {
+    "@results/result": "npm:@jsr/results__result@^0.0.4"
+  },
+  "scripts": {
+    "publish": "npx jsr publish"
+  }
+}
